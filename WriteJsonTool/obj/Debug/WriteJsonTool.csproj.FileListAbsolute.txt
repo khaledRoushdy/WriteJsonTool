@@ -1,0 +1,67 @@
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe.config
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.pdb
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.g.cs
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\App.g.cs
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.cache
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.lref
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.baml
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.g.resources
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.Properties.Resources.resources
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csproj.GenerateResource.Cache
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.exe
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.pdb
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.xml
+E:\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe.config
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.exe
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.pdb
+E:\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe
+E:\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.pdb
+E:\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.dll
+E:\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.xml
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csprojResolveAssemblyReference.cache
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.g.cs
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\App.g.cs
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.cache
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.lref
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.baml
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.g.resources
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.Properties.Resources.resources
+E:\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csproj.GenerateResource.Cache
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe.config
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.pdb
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.dll
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.xml
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csprojResolveAssemblyReference.cache
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.g.cs
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\App.g.cs
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.cache
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.lref
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.baml
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.g.resources
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.Properties.Resources.resources
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csproj.GenerateResource.Cache
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csproj.CoreCompileInputs.cache
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.exe
+F:\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.pdb
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe.config
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.exe
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\WriteJsonTool.pdb
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.g.cs
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\App.g.cs
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.cache
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool_MarkupCompile.lref
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\MainWindow.baml
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.g.resources
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.Properties.Resources.resources
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.exe
+C:\Users\asus\Desktop\Write Json Tool\WriteJsonTool\WriteJsonTool\obj\Debug\WriteJsonTool.pdb
